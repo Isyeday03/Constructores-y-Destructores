@@ -1,0 +1,5 @@
+=== Archivo creado el 2025-07-13 15:39:39.406175 ===
+15:39:39 - Primera línea de datos
+15:39:39 - Segunda línea de datos
+15:39:39 - Datos procesados correctamente
+=== Archivo cerrado el 2025-07-13 15:39:40.213605 ===
